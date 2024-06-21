@@ -12,15 +12,7 @@
     <generator>Hugo -- 0.125.6</generator>
     <language>en</language>
     <copyright>2024 Klaudiusz Staniek</copyright>
-    <lastBuildDate>Thu, 20 Jun 2024 21:48:22 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Thu, 20 Jun 2024 21:48:22 +0200</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
-    </item>
     <item>
       <title></title>
       <link>http://localhost:1313/archives/</link>
@@ -33,7 +25,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description></description>
+      <description>How to work with me I am a constant inventor, but with a twist. I am not tinkering with obscure data or reconfiguring trendy technology. Instead, I am initiating. I spend my time on novel undertakings that stretch the boundaries of current thinking and practice. I see the gaps in others&amp;rsquo; solutions and offer many (sometimes conflicting) alternatives and paradoxical insights. I prioritize volume over the perfectly packaged idea, confident that the model solution lies somewhere within my mass of insights.</description>
     </item>
   </channel>
 </rss>
